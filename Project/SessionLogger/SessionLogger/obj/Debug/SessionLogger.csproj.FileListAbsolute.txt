@@ -1,0 +1,16 @@
+D:\MAPUA\2018-2019\COE131L\Project\SessionLogger\SessionLogger\bin\Debug\SessionLogger.exe.config
+D:\MAPUA\2018-2019\COE131L\Project\SessionLogger\SessionLogger\bin\Debug\SessionLogger.exe
+D:\MAPUA\2018-2019\COE131L\Project\SessionLogger\SessionLogger\bin\Debug\SessionLogger.pdb
+D:\MAPUA\2018-2019\COE131L\Project\SessionLogger\SessionLogger\bin\Debug\Bunifu_UI_v1.52.dll
+D:\MAPUA\2018-2019\COE131L\Project\SessionLogger\SessionLogger\obj\Debug\SessionLogger.csprojResolveAssemblyReference.cache
+D:\MAPUA\2018-2019\COE131L\Project\SessionLogger\SessionLogger\obj\Debug\SessionLogger.mainForm.resources
+D:\MAPUA\2018-2019\COE131L\Project\SessionLogger\SessionLogger\obj\Debug\SessionLogger.Properties.Resources.resources
+D:\MAPUA\2018-2019\COE131L\Project\SessionLogger\SessionLogger\obj\Debug\SessionLogger.csproj.GenerateResource.Cache
+D:\MAPUA\2018-2019\COE131L\Project\SessionLogger\SessionLogger\obj\Debug\SessionLogger.exe
+D:\MAPUA\2018-2019\COE131L\Project\SessionLogger\SessionLogger\obj\Debug\SessionLogger.pdb
+D:\MAPUA\2018-2019\COE131L\Project\SessionLogger\SessionLogger\obj\Debug\SessionLogger.adminLoginForm.resources
+D:\MAPUA\2018-2019\COE131L\Project\SessionLogger\SessionLogger\obj\Debug\SessionLogger.adminLogoutForm.resources
+D:\MAPUA\2018-2019\COE131L\Project\SessionLogger\SessionLogger\obj\Debug\SessionLogger.adviseeRegisterForm.resources
+D:\MAPUA\2018-2019\COE131L\Project\SessionLogger\SessionLogger\obj\Debug\SessionLogger.endSessionForm.resources
+D:\MAPUA\2018-2019\COE131L\Project\SessionLogger\SessionLogger\obj\Debug\SessionLogger.adviserLoginForm.resources
+D:\MAPUA\2018-2019\COE131L\Project\SessionLogger\SessionLogger\obj\Debug\SessionLogger.adminCreateAccountForm.resources
